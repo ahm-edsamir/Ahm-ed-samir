@@ -1,0 +1,45 @@
+
+*{
+    overflow:auto;
+}
+body{
+    margin:0px;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    height:950px;
+    border:5px dashed black;
+    box-sizing:border-box;
+
+}
+.header{
+    background:skyblue;
+    padding:16px;
+
+}
+.main{
+    display:flex;
+    flex-direction:row;
+    flex-grow:1;
+    border:5px dashed blue;
+}
+.sidebar{
+    background:cornflowerblue;
+    padding:16px;
+
+}
+.content{
+flex-grow:1;
+background:beige;
+padding:16px;
+
+}
+.sidebar-2{
+    background:turquoise;
+    padding:16px;
+}
+.footer{
+    background:orange;
+    padding:16px;
+}
