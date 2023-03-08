@@ -1,0 +1,46 @@
+
+.box_1{
+    background-color:#eaeaed;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box_2{
+    background-color:#eaeaed;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   .container{
+    background:none;
+    color:#666;
+    width:100px;
+    height:100px;
+    border-radius:5px;
+    border:2px dashed #9799a7;
+  }
+  .offset{
+    background: #2db34a;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    left:25px;
+  
+    
+   
+  }
