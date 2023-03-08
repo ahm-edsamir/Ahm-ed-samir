@@ -1,0 +1,21 @@
+.container{
+    display:flex;
+    flex-direction:row;
+    border:1px solid black;
+
+}
+.item,.item2,.item3{
+    background:rebeccapurple;
+    font-size:48px;
+    padding:32px;
+    color:white;
+
+}
+.item2{
+    background-color:skyblue;
+
+}
+.item3{
+    background-color:orangered;
+
+}
