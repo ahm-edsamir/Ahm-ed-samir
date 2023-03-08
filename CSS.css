@@ -1,0 +1,25 @@
+
+header,section,aside,footer{
+    background-color:#2db34a;
+    color:#fff;
+    text-align:center;
+    font-size:30px;
+    border-radius:5px;
+    margin:10px;
+    padding:10px;
+
+}
+section{
+   
+    width:60%;
+    float:left;
+}
+aside{
+   
+    width:30%;
+    float:right;
+}
+footer{
+    clear:both;
+}
+    
