@@ -1,0 +1,16 @@
+th,td{
+    border:1px solid #c6c7cc;
+    padding:10px 15px;
+}
+table{
+    border-collapse:collapse;
+    border-spacing:4px;
+}
+
+tbody tr:nth-child(even){
+    background:#f0f0f2;
+}
+thead{
+    background:#395870;
+    color:#fff;
+}
