@@ -1,0 +1,9 @@
+a{
+    color:#0087cc;
+ cursor: pointer;
+ font-size:1.5em;
+ font-weight:bold;
+}
+a:hover{
+   color: #ff7b29;
+}
