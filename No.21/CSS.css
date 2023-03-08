@@ -1,0 +1,27 @@
+.container{
+    border:1px solid black;
+    width:1000px;
+    padding:8px;
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-end;
+}
+.item{
+    width:300px;
+    font-size:32px;
+    color:white;
+    text-align:center;
+
+    
+}
+.one{
+    background:blue;
+
+}
+.two{
+    background:red;
+
+}
+.three{
+    background:green;
+}
