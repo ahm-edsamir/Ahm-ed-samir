@@ -1,0 +1,28 @@
+.container{
+    border:1px solid black;
+    padding:8px;
+    width:300px;
+    display:flex;
+    flex-direction:row;
+
+}
+.item{
+    width:200px;
+    font-size:32px;
+    color:white;
+    text-align:center;
+
+}
+.one{
+    background:blue;
+
+}
+.two{
+    background:red;
+    flex-shrink:2;
+
+}
+.three{
+    background:green;
+}
+
