@@ -1,0 +1,16 @@
+.container{
+    background:skyblue;
+    width:160px;
+    height:160px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.item{
+ background:orangered;
+ width:80px;
+ height:80px;
+ text-align:center;
+
+    
+}
