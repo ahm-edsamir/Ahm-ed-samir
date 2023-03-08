@@ -1,0 +1,39 @@
+*{
+    overflow:hidden;
+}
+body{
+    background-image:url("assets/Background.png");
+}
+img{
+    width:976.00px;
+    height:566.50px;
+    position:relative;
+    left:200px;
+    top:150px;
+}
+p{
+    color:#fff;
+    font-family:'Open Sans', sans-serif;
+    position:absolute;
+    left:400px;
+    top:-50px;
+    font-size:300px;
+}
+li a{
+    color:#fff;
+    font-family:'Open Sans', sans-serif;
+    text-decoration:none;
+    background:linear-gradient(#ff2871,#ff5b58);
+    border-radius:5px;
+    position:relative;
+    left:600px;
+
+}
+
+
+
+
+
+
+
+
