@@ -1,0 +1,26 @@
+.container{
+    background: #eaeaed;
+    border-radius: 5px;
+    height: 200px;
+}
+.box_1{
+    float:right;
+    border: 2px dashed #666;
+    border-radius: 5px;
+    width: 200px;
+    height: 150px;
+}
+.box_2{
+    background: #2db34a;
+    width: 200px;
+    height: 150px;
+    border-radius: 5px;
+    float:right;
+    position:absolute;
+    top:25px;
+    right:25px;
+  
+    
+
+
+}
