@@ -1,0 +1,52 @@
+*{
+    background-color:#D3D2AE;
+    
+}
+
+div{
+    background-color:#1A2940;
+    width:2168.0005px;
+    height:1367.996px;
+    margin: auto;
+    position:relative;
+    top:250px;
+}
+.child{
+    background-image:url(../No.27/1x/1x/Asset\ 4.png);
+
+
+}
+a{
+    float:right;
+    margin:10px;
+    font-size:30px;
+    text-decoration:none;
+    position:relative;
+    top:-100px;
+    right:100px;
+
+    font-family:'Quicksand', sans-serif;
+
+
+}
+span{
+    font-family: 'Quicksand', sans-serif;
+    font-size:105px;
+    color:#fff;
+    position:absolute;
+    left:500px;
+    top:900px;
+    background-color:rgba(60, 78, 79, .5);
+
+}
+.back{
+    position:absolute;
+    right:1000px;
+    top:1200px;
+    color:#fff;
+    background-color:rgba(60, 78, 79, .5);
+
+}
+
+
+
