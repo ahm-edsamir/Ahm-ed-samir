@@ -1,0 +1,53 @@
+*{
+    background-color:#36E6FE;
+}
+div{
+    width:710px;
+    height:360px;
+    background-color:#526571;
+    margin:auto;/* center horizontally & vertically */
+     position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url(../No.28/1x//Asset\ 1.png);
+  background-repeat:no-repeat;
+  background-position: 20% 50%;
+
+}
+.child{
+    width:50%;
+    height:100%;
+    background-color:#fff;
+    background-image:none;
+    position:absolute;
+    left:550px;
+}
+label{
+    background-color:#fff;
+}
+label,hr,a{
+    display:block;
+    position:relative;
+    top:100px;
+    background-color:#fff;
+    text-decoration:none;
+
+}
+.login{
+    text-align:center;
+    width:222.4981px;
+    height:45.75px;
+    border:2px solid #526571;
+    background-color:#526571;
+    border-radius:5px;
+    color:#fff;
+    margin:auto;
+
+}
+.Need,.Register{
+   display:inline-block;
+   position:relative;
+   top:200px;
+}
+
